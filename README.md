@@ -24,7 +24,3 @@ python mlflow_examply.py
 # 모델 학습 기록 확인
 mlflow ui
 ```
-
-## 도커라이징
-
-진행중...
